@@ -46,7 +46,7 @@ console.log(result1); // 12
  * Using 'this' with arrow functions ----------------------------------------------------
  */
 
-// nside a regular function, this keyword refers to the function where it is called.
+// Inside a regular function, this keyword refers to the function where it is called.
 
 //However, this is not associated with arrow functions. Arrow function does not
 // have its own this.So whenever you call this, it refers to its parent scope.
